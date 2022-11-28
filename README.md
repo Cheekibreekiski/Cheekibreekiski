@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Cheekibreekiski
 -
--
-- I do the coding
-- I do not do it very well
-- I will do the code good
--
-- a haiku
+-I like robots :)
+
